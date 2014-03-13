@@ -25,7 +25,7 @@
 	"target-dir": "Nella/Doctrine",
 	"require": {
 		"php": ">=5.3.2",
-		"nette/nette": "~2.0.*",
-		"doctrine/orm": "~2.3.*"
+		"nette/nette": "~2.0",
+		"doctrine/orm": "~2.3"
 	}
 }
